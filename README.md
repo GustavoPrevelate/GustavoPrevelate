@@ -66,7 +66,7 @@ until 04/15 / Criando um portfólio até 15/04
 
 <div align="center">
 
-  ![Snake animation](https://github.com/GustavoPrevelate/gustavoprevelate/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GustavoPrevelate/GustavoPrevelate/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
