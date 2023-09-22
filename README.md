@@ -1,34 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096ff&height=150&section=header"/>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20github!;%20Estou%20me%20desenvolvendo%20como%20um:;%20Full%20Stack%20Developer;%20Estudo%20ADS%20no%20SENAI;Finalizo%20o%20curso%20em%2012/23;&font=Anton&left=true&width=650&height=96&color=00ffff&vCenter=true&size=45%22" alt=""/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20GitHub!;%20Estou%20me%20desenvolvendo%20como%20um:;%20Full%20Stack%20Developer;%20Estudo%20ADS%20no%20Senai%20e%20na%20Estácio;;&font=Anton&left=true&width=700&height=96&color=0096ff&vCenter=true&size=45%22" alt=""/>
 
 ---
 
-# ☁️ Gustavo Prevelate Ribeiro da Silva 🖥️
+#  Gustavo Prevelate Ribeiro da Silva 🖥️
 
-### Estou aprendendo cada vez mais sobre TI, participo do curso do Senai de Jandira - DS2M-A - Sou uma pessoa criativa e otimista, colaborando sempre com minhas equipes e a empresa, Buscando ótimos resultados.
+###  Eu sou uma pessoa criativa e otimista, colaborando sempre com minhas equipes e buscando ótimos resultados nos projetos em que participo.
 
 ---
-
-- 👨‍💻 creating a portfolio 
-until 04/15 / Criando um portfólio até 15/04
 
 - 📫 Email to contact / E-mail para entrar em contato: **guprevelate2022@gmail.com**
-
----
-
-## GitHub stats / Status do GitHub:
-
-![GustavoPrevelate GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPrevelate&show_icons=true&theme=radical)
-
----
-
-## Languages ​​I use / Linguagens que eu utilizo: 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoprevelate&layout=compact)](https://github.com/GustavoPrevelate?tab=repositories)
-
 
 ---
 
@@ -37,7 +21,7 @@ until 04/15 / Criando um portfólio até 15/04
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,java,html,css,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=github,git,figma,java,html,css,js,nodejs,mysql,postman,azure,linux&theme=dark" />
   </a>
 </p>
 
@@ -48,7 +32,7 @@ until 04/15 / Criando um portfólio até 15/04
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,mysql,nodejs,js,azure,postman,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin,firebase,nextjs,planetscale,ts,vue,regex,&theme=dark" />
   </a>
 </p>
 
@@ -60,10 +44,18 @@ until 04/15 / Criando um portfólio até 15/04
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,androidstudio&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,androidstudio,&theme=dark" />
   </a>
 </p>
 
+## GitHub stats / Status do GitHub:
+
+<div align="center" >
+  <a href="https://github.com/GustavoPrevelate">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoPrevelate&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPrevelate&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096ff&height=120&section=footer"/>
