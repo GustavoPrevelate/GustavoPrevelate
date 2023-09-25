@@ -14,6 +14,8 @@
 
 - 📫 Email to contact / E-mail para entrar em contato: **guprevelate2022@gmail.com**
 
+- 🖥️ My portifolio / Meu portifólio: [Portifólio](https://gustavoprevelate.github.io/MeuPortifolio/)
+
 ---
 
 ## I have knowledge of / Eu tenho conhecimento de:
