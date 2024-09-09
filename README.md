@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20GitHub!;%20Estou%20me%20desenvolvendo%20como%20um:;%20Full%20Stack%20Developer;%20Estudo%20ADS%20no%20Senai%20e%20na%20Estácio;;&font=Anton&left=true&width=700&height=96&color=0096ff&vCenter=true&size=45%22" alt=""/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=+Ol%C3%A1%2C%20bem%20vindo(a)%20ao%20meu%20GitHub!;%20Estou%20me%20desenvolvendo%20como%20um:;%20Full%20Stack%20Developer;%20Estudo%20na%20Estácio;;&font=Anton&left=true&width=700&height=96&color=0096ff&vCenter=true&size=45%22" alt=""/>
 
 ---
 
